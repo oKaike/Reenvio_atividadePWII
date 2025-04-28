@@ -1,6 +1,7 @@
 <?php
 include_once'header.php';
 ?>
+//seção inicial
 <form action="verificar.php" method="post">
     <label>Nome:</label>
     <input type="text" name = "txt_id_tarefa" required><br>
